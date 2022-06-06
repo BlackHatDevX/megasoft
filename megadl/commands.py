@@ -25,7 +25,7 @@ async def help(bot, message, cb=False):
         InlineKeyboardButton(f'🏠 HOME', callback_data='back'),
         InlineKeyboardButton(f'ABOUT 👨', callback_data='about')
         ],[
-        InlineKeyboardButton(f'📦 SOURCE', url='https://github.com/AsmSafone/MegaDL-Bot'),
+        InlineKeyboardButton(f'📦 SOURCE', url='www.telegram.dog/about_jash'),
         InlineKeyboardButton(f'CLOSE 🔐', callback_data='close')
         ]]
     reply_markup = InlineKeyboardMarkup(button)
