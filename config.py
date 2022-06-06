@@ -19,17 +19,11 @@ class TEXT:
   ABOUT = """
 🤖 **Name:** {bot_name}
 
-📝 **Language:** [Python](https://www.python.org)
+🧑‍💻 **Developer:** [Developer_X](https://telegram.dog/deveIoper_X)
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+👥 **Support Group:** [Bin World Chat](https://t.me/Bin_worldchat)
 
-📡 **Hosted On:** [Heroku](https://heroku.com)
-
-🧑‍💻 **Developer:** [Safone](https://t.me/ImSafone)
-
-👥 **Support Group:** [AsmSupport](https://t.me/AsmSupport)
-
-📢 **Updates Channel:** [Ｓ１ ＢＯＴＳ](https://t.me/AsmSafone)
+📢 **Updates Channel:** (https://t.me/Bin_WorldxD)
 """
 
   HELP_USER = """
@@ -37,7 +31,7 @@ This is **{bot_name}**
 
 This Bot Can Download Files & Videos From Mega Links & Upload To Telegram. Just Send Any Mega.nz Link & See The Magic. You Can Also Add or Change Caption: Just Select An Uploaded File/ Video or Forward Me Any Telegram File & Then Write The Text You Want To Be Caption On The File As A Reply To That File & The Text You Wrote Will Be Attached As Caption 😁! 
 
-**Made With ❤️ By @AsmSafone! 👑**
+**Made With ❤️ By @deveIoper_X! 👑**
 """
 
   START_TEXT = """
