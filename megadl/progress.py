@@ -46,10 +46,6 @@ async def progress_for_pyrogram(
         )
         try:
             await message.edit(
-                text="Jash Gro".format(
-                    ud_type,
-                    tmp
-                ),
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
