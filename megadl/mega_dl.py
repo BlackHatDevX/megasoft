@@ -131,7 +131,7 @@ async def megadl(bot, message):
                         [
                             InlineKeyboardButton(
                                 "🙌 SHARE 🙌",
-                                url="https://t.me/share/url?url=**https://telegram.dog/bin_worldXD***",
+                                url="https://t.me/share/url?url=**https://telegram.dog/about_jash***",
                             )
                         ]
                     ]
