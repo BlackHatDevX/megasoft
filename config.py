@@ -23,7 +23,7 @@ class TEXT:
 
 👥 **Support Group:** [Bin World Chat](https://t.me/Bin_worldchat)
 
-📢 **Updates Channel:** (https://t.me/Bin_WorldxD)
+📢 **Updates Channel:** [Bin_WorldxD](https://t.me/Bin_WorldxD)
 """
 
   HELP_USER = """
