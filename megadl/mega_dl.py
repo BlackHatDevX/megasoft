@@ -160,7 +160,7 @@ async def megadl(bot, message):
         else:
             safone = await message.reply_document(magapylol, progress=progress_for_pyrogram, progress_args=("**Uploading ...** \n", download_msg, start_time), reply_to_message_id=message.message_id)
         await safone.reply_text(
-            "**Join @AsmSafone! \nThanks For Using Me 😘!**",
+            "**Join @about_jash! \nThanks For Using Me 😘!**",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
