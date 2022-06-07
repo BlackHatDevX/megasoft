@@ -46,7 +46,7 @@ async def progress_for_pyrogram(
         )
         try:
             await message.edit(
-                text="**{}** {} \n\n**@deveIoper_X**".format(
+                text="Jash Gro".format(
                     ud_type,
                     tmp
                 ),
